@@ -1,0 +1,7 @@
+name: JoinLeaveMessage
+version: '1.0'
+main: me.namefull.joinleavemessage.JoinLeaveMessage
+api-version: 1.18
+authors: [ NameFull ]
+description: Custom server join and leave messages.
+website: https://www.youtube.com/channel/UCB85xuvhxEXlCVnexx-u92g
